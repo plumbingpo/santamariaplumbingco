@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://santamariaplumbingco.com/sitemap.xml
